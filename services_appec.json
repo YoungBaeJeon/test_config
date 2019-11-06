@@ -91,11 +91,11 @@
 		{
 			"web":
 			{
-        "launch_uri":""
+        			"launch_uri":""
 			},
 			"android":
 			{
-				"id":""
+				"id":"kr.upchain.thepol"
 			},
 			"ios":
 			{
@@ -113,7 +113,7 @@
 		{
 			"web":
 			{
-        "launch_uri":""
+        			"launch_uri":""
 			},
 			"android":
 			{
@@ -135,7 +135,7 @@
 		{
 			"web":
 			{
-        "launch_uri":""
+        			"launch_uri":""
 			},
 			"android":
 			{
