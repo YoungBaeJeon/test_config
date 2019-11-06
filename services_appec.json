@@ -6,7 +6,10 @@
 		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/MetaSafe.png",
 		"app":
 		{
-			"web":{},
+			"web":
+			{
+				"launch_uri":""
+			},
 			"android":
 			{
 				"id":"com.coinplug.custody"
@@ -49,6 +52,7 @@
 		{
 			"web":
 			{
+				"launch_uri":""
 			},
 			"android":
 			{
@@ -70,6 +74,7 @@
 		{
 			"web":
 			{
+				"launch_uri":""
 			},
 			"android":
 			{
