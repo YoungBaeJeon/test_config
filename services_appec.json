@@ -113,7 +113,7 @@
 	{
 		"name":"REC플랫폼",
 		"description":"REC플랫폼",
-		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
+		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/rec.jpg",
 		"app":
 		{
 			"web":
@@ -135,7 +135,7 @@
 	{
 		"name":"Tokenize 웹사이트",
 		"description":"Tokenize 웹사이트",
-		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
+		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/tokenization.png",
 		"app":
 		{
 			"web":
@@ -157,7 +157,7 @@
 	{
 		"name":"센터페이",
 		"description":"센터페이",
-		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
+		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/demo_center_pay.png",
 		"app":
 		{
 			"web":
@@ -166,7 +166,7 @@
 			},
 			"android":
 			{
-				"id":""
+				"id":"com.coinplug.enterprise.centerpay.busan"
 			},
 			"ios":
 			{
