@@ -2,7 +2,7 @@
 	"com.coinplug.custody":
 	{
 		"name":"metaSAFE",
-		"description":"코인플러그 암호화폐 자산 보장 서비스",
+		"description":"Coinplug Cryptocurrency Custody Service",
 		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/MetaSafe.png",
 		"app":
 		{
@@ -46,7 +46,7 @@
 	"com.metadium.game.candyCrushDemo":
 	{
 		"name":"CnadyCrushDemo",
-		"description":"CnadyCrushDemo",
+		"description":"Metadium sample game",
 		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/match_three.png",
 		"app":
 		{
@@ -68,7 +68,7 @@
 	"com.metadium.game.FlappyBirdDemo":
 	{
 		"name":"FlappyBird",
-		"description":"FlappyBird",
+		"description":"Metadium sample game",
 		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/flappybird.png",
 		"app":
 		{
@@ -90,7 +90,7 @@
 	"thepol":
 	{
 		"name":"ThePol",
-		"description":"Signature and public opinion",
+		"description":"Blockchain Bassed Online Survey Service",
 		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/the_pol.png",
 		"app":
 		{
@@ -111,8 +111,8 @@
 	},
 	"rec_platform":
 	{
-		"name":"REC플랫폼",
-		"description":"남부발전\nMetadium Enterprise Admin",
+		"name":"REC Platform",
+		"description":"KOSPO\nMetadium Enterprise Admin",
 		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/rec.jpg",
 		"app":
 		{
@@ -133,8 +133,8 @@
 	},
 	"haccp_web":
 	{
-		"name":"Tokenize 웹사이트",
-		"description":"코인플러그 자산유동화 플랫폼\nCP Tokenization을 이용하여\n자산기반의 토큰을 생성, 거래 할 수 있습니다.",
+		"name":"Tokenize Platform",
+		"description":"Coinplug Tokenization Platform\nYou can issue your own asset-based token on CP Tokenazation Platform.",
 		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/tokenization.png",
 		"app":
 		{
@@ -155,8 +155,8 @@
 	},
 	"centerpay":
 	{
-		"name":"센터페이",
-		"description":"블럭체인기반 간편결제 서비스\n우정사업정보센터",
+		"name":"Center Pay",
+		"description":"Simple Payment System based on Blockchain\nKorea Post",
 		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/demo_center_pay.png",
 		"app":
 		{
