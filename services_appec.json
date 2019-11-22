@@ -112,7 +112,7 @@
 	"rec_platform":
 	{
 		"name":"REC플랫폼",
-		"description":"남부발전\Metadium Enterprise Admin",
+		"description":"남부발전\nMetadium Enterprise Admin",
 		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/rec.jpg",
 		"app":
 		{
