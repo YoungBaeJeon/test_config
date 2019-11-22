@@ -118,7 +118,7 @@
 		{
 			"web":
 			{
-        			"launch_uri":""
+        			"launch_uri":"https://rec.metadium.club"
 			},
 			"android":
 			{
@@ -133,8 +133,8 @@
 	},
 	"haccp_web":
 	{
-		"name":"HACCP 웹사이트",
-		"description":"HACCP 웹사이트",
+		"name":"Tokenize 웹사이트",
+		"description":"Tokenize 웹사이트",
 		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
 		"app":
 		{
