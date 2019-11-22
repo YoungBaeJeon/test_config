@@ -112,7 +112,7 @@
 	"rec_platform":
 	{
 		"name":"REC플랫폼",
-		"description":"남부발전 Metadium Enterprise Admin",
+		"description":"남부발전\Metadium Enterprise Admin",
 		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/rec.jpg",
 		"app":
 		{
@@ -156,7 +156,7 @@
 	"centerpay":
 	{
 		"name":"센터페이",
-		"description":"블럭체인기반 간편결제 서비스\n우정사업",
+		"description":"블럭체인기반 간편결제 서비스\n우정사업정보센터",
 		"icon":"https://github.com/YoungBaeJeon/test_config/raw/master/demo_center_pay.png",
 		"app":
 		{
