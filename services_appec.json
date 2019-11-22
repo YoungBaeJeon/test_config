@@ -140,7 +140,7 @@
 		{
 			"web":
 			{
-        			"launch_uri":""
+        			"launch_uri":"http://tokenize.metadium.club:8080/"
 			},
 			"android":
 			{
